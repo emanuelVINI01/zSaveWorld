@@ -1,0 +1,5 @@
+#Em segundos
+tempo: 3600
+salvartodos: true
+mundos:
+  - 'world'
